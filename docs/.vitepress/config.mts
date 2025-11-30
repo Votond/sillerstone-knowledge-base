@@ -4,6 +4,7 @@ import {defineConfig} from "vitepress"
 export default defineConfig({
     lang: "ru-RU",
     head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+    base: "/sillerstone-knowledge-base/",
     title: "Sillerstone",
     description: "База знаний проекта Sillerstone",
     themeConfig: {
