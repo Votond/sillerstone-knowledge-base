@@ -1,5 +1,5 @@
 # Sawn-Off
-<span style="font-size: 1.75rem; color: var(--vp-c-brand-1)">500 ₽</span>
+<span class="price-tag">500 ₽</span>
 
 * Вы получаете обрез (Sawn-Off) из игры
 

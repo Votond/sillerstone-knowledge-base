@@ -40,7 +40,7 @@ import { VPTeamMembers } from "vitepress/theme"
 
 const members = [
     {
-        avatar: "https://i.imgur.com/bzOpBmC.jpeg",
+        avatar: "https://i.imgur.com/31r6Sma.png",
         name: "Votond",
         title: "Владелец проекта",
         links: [

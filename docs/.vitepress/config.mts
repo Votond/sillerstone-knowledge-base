@@ -3,7 +3,7 @@ import {defineConfig} from "vitepress"
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     lang: "ru-RU",
-    head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+    head: [['link', { rel: 'icon', href: 'public/favicon.ico' }]],
     base: "/sillerstone-knowledge-base/",
     title: "Sillerstone",
     description: "База знаний проекта Sillerstone",
@@ -84,7 +84,7 @@ export default defineConfig({
             {
                 text: "Персоналу",
                 items: [
-                    {text: "", link: "/staff/"}
+                    {text: "Должности", link: "/staff/ranks"},
                 ]
             }
         ],
